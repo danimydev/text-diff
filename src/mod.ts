@@ -1,5 +1,5 @@
 import { textDiff } from "@/text-diff.ts";
 
-export default {
+export {
   textDiff,
 };
